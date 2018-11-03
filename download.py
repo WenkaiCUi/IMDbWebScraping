@@ -8,7 +8,6 @@ Created on Sat Jul 14 15:05:53 2018
 """
 
 import requests
-import re
 import random
 import time
  

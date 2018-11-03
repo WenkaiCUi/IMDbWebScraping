@@ -1,0 +1,251 @@
+BoxOffice($),Budget($),Countries,Director,Genres,Rating,Rating_Per,ReleaseYear,Runtime,Stars,Title
+$58500000,$25000000,USA,Frank Darabont, Drama,9.3,"55.7%,25.2%,11.4%,3.7%,1.1%,0.6%,0.3%,0.2%,0.2%,1.6%",1994,142.0,"Tim Robbins,Morgan Freeman,Bob Gunton",The Shawshank Redemption
+$245066411,$6000000,USA,Francis Ford Coppola," Crime, Drama",9.2,"52.3%,24.4%,11.9%,4.7%,1.8%,1.0%,0.5%,0.4%,0.4%,2.5%",1972,175.0,"Marlon Brando,Al Pacino,James Caan",The Godfather
+,$13000000,USA,Francis Ford Coppola," Crime, Drama",9.0,"43.8%,28.4%,15.2%,6.0%,2.1%,1.1%,0.5%,0.4%,0.4%,2.0%",1974,202.0,"Al Pacino,Robert De Niro,Robert Duvall",The Godfather: Part II
+$1004558444,$185000000,"USA,UK",Christopher Nolan," Action, Crime, Drama, Thriller",9.0,"45.2%,27.9%,15.2%,5.9%,2.1%,1.0%,0.5%,0.4%,0.3%,1.4%",2008,152.0,"Christian Bale,Heath Ledger,Aaron Eckhart",The Dark Knight
+,$350000,USA,Sidney Lumet," Crime, Drama",8.9,"35.9%,32.9%,19.4%,6.8%,1.9%,0.9%,0.4%,0.3%,0.2%,1.3%",1957,96.0,"Henry Fonda,Lee J. Cobb,Martin Balsam",12 Angry Men
+$221000000,$22000000,USA,Steven Spielberg," Biography, Drama, History",8.9,"37.6%,31.3%,18.1%,6.7%,2.1%,1.1%,0.5%,0.4%,0.4%,1.7%",1993,195.0,"Liam Neeson,Ralph Fiennes,Ben Kingsley",Schindler's List
+$1119929521,$94000000,"New Zealand,USA",Peter Jackson," Action, Adventure, Drama, Fantasy",8.9,"43.1%,26.2%,16.2%,7.1%,2.7%,1.3%,0.7%,0.5%,0.4%,1.9%",2003,201.0,"Elijah Wood,Viggo Mortensen,Ian McKellen",The Lord of the Rings: The Return of the King
+$213928762,$8000000,USA,Quentin Tarantino," Crime, Drama",8.9,"37.7%,29.4%,17.7%,7.5%,2.8%,1.5%,0.8%,0.6%,0.5%,1.5%",1994,154.0,"John Travolta,Uma Thurman,Samuel L. Jackson",Pulp Fiction
+,$1200000,"Italy,Spain,West Germany",Sergio Leone, Western,8.9,"37.0%,28.9%,19.4%,8.1%,2.6%,1.2%,0.5%,0.4%,0.3%,1.6%",1966,161.0,"Clint Eastwood,Eli Wallach,Lee Van Cleef","The Good, the Bad and the Ugly"
+$71000000,$63000000,"USA,Germany",David Fincher, Drama,8.8,"35.3%,30.7%,19.4%,7.9%,2.8%,1.3%,0.7%,0.5%,0.4%,1.0%",1999,139.0,"Brad Pitt,Edward Norton,Meat Loaf",Fight Club
+$871530324,$93000000,"New Zealand,USA",Peter Jackson," Adventure, Drama, Fantasy",8.8,"38.3%,27.6%,18.8%,7.9%,2.8%,1.4%,0.7%,0.5%,0.4%,1.8%",2001,178.0,"Elijah Wood,Ian McKellen,Orlando Bloom",The Lord of the Rings: The Fellowship of the Ring
+$677945399,$55000000,USA,Robert Zemeckis," Drama, Romance",8.8,"34.5%,30.5%,20.4%,8.3%,2.8%,1.3%,0.7%,0.5%,0.4%,0.7%",1994,142.0,"Tom Hanks,Robin Wright,Gary Sinise",Forrest Gump
+$247916602,$18000000,USA,Irvin Kershner," Action, Adventure, Fantasy, Sci-Fi",8.8,"35.4%,27.4%,20.9%,9.3%,3.0%,1.3%,0.6%,0.4%,0.3%,1.4%",1980,124.0,"Mark Hamill,Harrison Ford,Carrie Fisher",Star Wars: Episode V - The Empire Strikes Back
+$825532764,$160000000,"USA,UK",Christopher Nolan," Action, Adventure, Sci-Fi, Thriller",8.8,"35.8%,30.1%,19.2%,8.3%,2.9%,1.3%,0.7%,0.4%,0.4%,0.9%",2010,148.0,"Leonardo DiCaprio,Joseph Gordon-Levitt,Ellen Page",Inception
+$926047111,$94000000,"New Zealand,USA",Peter Jackson," Adventure, Drama, Fantasy",8.7,"35.0%,28.2%,20.7%,8.7%,3.0%,1.4%,0.6%,0.5%,0.4%,1.5%",2002,179.0,"Elijah Wood,Ian McKellen,Viggo Mortensen",The Lord of the Rings: The Two Towers
+,$4400000,USA,Milos Forman, Drama,8.7,"28.1%,32.2%,24.2%,9.8%,2.9%,1.1%,0.5%,0.3%,0.2%,0.8%",1975,133.0,"Jack Nicholson,Louise Fletcher,Will Sampson",One Flew Over the Cuckoo's Nest
+,$25000000,USA,Martin Scorsese," Crime, Drama",8.7,"28.6%,31.4%,24.4%,9.8%,2.9%,1.1%,0.5%,0.3%,0.2%,0.7%",1990,146.0,"Robert De Niro,Ray Liotta,Joe Pesci",Goodfellas
+$463517383,$63000000,USA,"Lana Wachowski,Lilly Wachowski"," Action, Sci-Fi",8.7,"30.6%,30.0%,21.9%,9.8%,3.4%,1.5%,0.8%,0.6%,0.4%,1.1%",1999,136.0,"Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss",The Matrix
+,$2000000,Japan,Akira Kurosawa," Adventure, Drama",8.7,"35.2%,25.4%,19.4%,9.5%,3.5%,1.8%,0.8%,0.7%,0.6%,3.1%",1954,207.0,"Toshirô Mifune,Takashi Shimura,Keiko Tsushima",Seven Samurai
+$32059295,$3300000,"Brazil,France","Fernando Meirelles,Kátia Lund"," Crime, Drama",8.6,"27.5%,32.7%,24.1%,9.2%,2.8%,1.2%,0.5%,0.4%,0.3%,1.4%",2002,130.0,"Alexandre Rodrigues,Leandro Firmino,Matheus Nachtergaele",City of God
+$327311859,$33000000,USA,David Fincher," Crime, Drama, Mystery, Thriller",8.6,"23.3%,34.0%,26.7%,10.8%,2.7%,1.0%,0.5%,0.3%,0.2%,0.5%",1995,127.0,"Morgan Freeman,Brad Pitt,Kevin Spacey",Se7en
+$775398007,$11000000,USA,George Lucas," Action, Adventure, Fantasy, Sci-Fi",8.6,"32.9%,26.8%,22.2%,10.4%,3.5%,1.5%,0.6%,0.4%,0.3%,1.4%",1977,121.0,"Mark Hamill,Harrison Ford,Carrie Fisher",Star Wars: Episode IV - A New Hope
+$272742922,$19000000,USA,Jonathan Demme," Crime, Drama, Thriller",8.6,"23.5%,32.9%,27.7%,10.6%,2.8%,1.0%,0.4%,0.3%,0.2%,0.5%",1991,118.0,"Jodie Foster,Anthony Hopkins,Lawrence A. Bonney",The Silence of the Lambs
+,$3180000,USA,Frank Capra," Drama, Family, Fantasy",8.6,"34.1%,24.7%,20.9%,10.8%,4.1%,1.9%,0.9%,0.6%,0.5%,1.6%",1946,130.0,"James Stewart,Donna Reed,Lionel Barrymore",It's a Wonderful Life
+$229163264,$20000000,Italy,Roberto Benigni," Comedy, Drama, Romance, War",8.6,"32.3%,30.4%,21.1%,8.8%,3.1%,1.4%,0.7%,0.5%,0.4%,1.3%",1997,116.0,"Roberto Benigni,Nicoletta Braschi,Giorgio Cantarini",Life Is Beautiful
+$34449356,$6000000,"USA,Germany",Bryan Singer," Crime, Mystery, Thriller",8.6,"26.2%,32.3%,25.0%,10.3%,3.1%,1.2%,0.5%,0.3%,0.2%,0.7%",1995,106.0,"Kevin Spacey,Gabriel Byrne,Chazz Palminteri",The Usual Suspects
+$274925095,$19000000,Japan,"Hayao Miyazaki,Kirk Wise"," Animation, Adventure, Family, Fantasy, Mystery",8.6,"31.8%,28.7%,21.8%,9.8%,3.4%,1.5%,0.7%,0.5%,0.4%,1.5%",2001,125.0,"Daveigh Chase,Suzanne Pleshette,Miyu Irino",Spirited Away
+$481840909,$70000000,USA,Steven Spielberg," Drama, War",8.6,"26.1%,31.1%,25.1%,10.7%,3.4%,1.4%,0.7%,0.4%,0.3%,0.8%",1998,169.0,"Tom Hanks,Matt Damon,Tom Sizemore",Saving Private Ryan
+$45501238,FRF115000000,France,Luc Besson," Crime, Drama, Thriller",8.6,"26.1%,31.4%,26.0%,10.8%,3.0%,1.1%,0.4%,0.3%,0.2%,0.6%",1994,110.0,"Jean Reno,Gary Oldman,Natalie Portman",Léon: The Professional
+$286801374,$60000000,USA,Frank Darabont," Crime, Drama, Fantasy, Mystery",8.5,"26.3%,31.1%,25.8%,10.7%,3.3%,1.2%,0.6%,0.4%,0.2%,0.5%",1999,189.0,"Tom Hanks,Michael Clarke Duncan,David Morse",The Green Mile
+$675020017,$165000000,"USA,UK",Christopher Nolan," Adventure, Drama, Sci-Fi",8.6,"36.0%,27.0%,19.0%,9.8%,3.8%,1.6%,0.8%,0.5%,0.4%,0.9%",2014,169.0,"Matthew McConaughey,Anne Hathaway,Jessica Chastain",Interstellar
+$50000000,$806947,USA,Alfred Hitchcock," Horror, Mystery, Thriller",8.5,"24.6%,27.9%,26.6%,12.8%,4.2%,1.7%,0.7%,0.4%,0.3%,0.8%",1960,109.0,"Anthony Perkins,Janet Leigh,Vera Miles",Psycho
+$23875127,$7500000,USA,Tony Kaye," Crime, Drama",8.5,"22.6%,32.9%,28.0%,10.9%,2.9%,1.0%,0.5%,0.3%,0.2%,0.6%",1998,119.0,"Edward Norton,Edward Furlong,Beverly D'Angelo",American History X
+,$1500000,USA,Charles Chaplin," Comedy, Drama, Romance",8.5,"29.4%,26.1%,24.1%,11.0%,3.7%,1.8%,0.9%,0.6%,0.5%,1.9%",1931,87.0,"Charles Chaplin,Virginia Cherrill,Florence Lee",City Lights
+,$5000000,"Italy,USA",Sergio Leone, Western,8.5,"28.5%,26.9%,23.7%,11.6%,4.0%,1.8%,0.8%,0.6%,0.4%,1.6%",1968,165.0,"Henry Fonda,Charles Bronson,Claudia Cardinale",Once Upon a Time in the West
+,$950000,USA,Michael Curtiz," Drama, Romance, War",8.5,"31.1%,24.4%,22.7%,11.9%,4.4%,2.0%,0.9%,0.6%,0.5%,1.6%",1942,102.0,"Humphrey Bogart,Ingrid Bergman,Paul Henreid",Casablanca
+,$1500000,USA,Charles Chaplin," Comedy, Drama, Family, Romance",8.5,"26.8%,28.1%,25.7%,11.0%,3.6%,1.6%,0.7%,0.5%,0.4%,1.7%",1936,87.0,"Charles Chaplin,Paulette Goddard,Henry Bergman",Modern Times
+$426480871,€9500000,France,"Olivier Nakache,Éric Toledano"," Biography, Comedy, Drama",8.5,"27.5%,31.9%,25.0%,10.2%,2.9%,1.0%,0.4%,0.3%,0.2%,0.5%",2011,112.0,"François Cluzet,Omar Sy,Anne Le Ny",The Intouchables
+$120072577,$35000000,"France,Poland,Germany,UK,USA",Roman Polanski," Biography, Drama, Music, War",8.5,"23.6%,32.3%,27.1%,10.5%,3.0%,1.2%,0.6%,0.4%,0.3%,1.0%",2002,150.0,"Adrien Brody,Thomas Kretschmann,Frank Finlay",The Pianist
+$289847354,$90000000,"USA,Hong Kong",Martin Scorsese," Crime, Drama, Thriller",8.5,"23.5%,31.8%,27.0%,11.1%,3.4%,1.2%,0.5%,0.3%,0.3%,0.8%",2006,151.0,"Leonardo DiCaprio,Matt Damon,Jack Nicholson",The Departed
+$315000000,$102000000,"USA,France",James Cameron," Action, Sci-Fi",8.5,"25.2%,27.6%,26.6%,12.9%,4.2%,1.6%,0.7%,0.4%,0.3%,0.7%",1991,137.0,"Arnold Schwarzenegger,Linda Hamilton,Edward Furlong",Terminator 2
+$381109762,$19000000,USA,Robert Zemeckis," Adventure, Comedy, Sci-Fi",8.5,"26.1%,26.6%,27.3%,13.1%,4.1%,1.4%,0.6%,0.3%,0.2%,0.4%",1985,116.0,"Michael J. Fox,Christopher Lloyd,Lea Thompson",Back to the Future
+$48982041,$3300000,USA,Damien Chazelle," Drama, Music",8.5,"22.1%,32.5%,27.3%,11.6%,3.4%,1.2%,0.6%,0.4%,0.3%,0.6%",2014,106.0,"Miles Teller,J.K. Simmons,Melissa Benoist",Whiplash
+$36888916,$1000000,USA,Alfred Hitchcock," Mystery, Thriller",8.5,"23.7%,28.2%,27.5%,12.8%,3.9%,1.5%,0.7%,0.4%,0.3%,1.0%",1954,112.0,"James Stewart,Grace Kelly,Wendell Corey",Rear Window
+$389925971,$18000000,USA,Steven Spielberg," Action, Adventure",8.5,"24.7%,27.7%,27.4%,13.1%,3.9%,1.4%,0.6%,0.3%,0.2%,0.7%",1981,115.0,"Harrison Ford,Karen Allen,Paul Freeman",Raiders of the Lost Ark
+$457640427,$103000000,"USA,UK",Ridley Scott," Action, Adventure, Drama",8.5,"26.6%,29.6%,25.1%,11.3%,3.8%,1.6%,0.7%,0.4%,0.3%,0.6%",2000,155.0,"Russell Crowe,Joaquin Phoenix,Connie Nielsen",Gladiator
+$987483777,$45000000,USA,"Roger Allers,Rob Minkoff"," Animation, Adventure, Drama, Family, Musical",8.5,"29.8%,25.7%,25.3%,12.0%,3.9%,1.6%,0.6%,0.4%,0.2%,0.6%",1994,88.0,"Matthew Broderick,Jeremy Irons,James Earl Jones",The Lion King
+$109676311,$40000000,"USA,UK",Christopher Nolan," Drama, Mystery, Sci-Fi, Thriller",8.5,"24.4%,31.7%,26.7%,11.3%,3.3%,1.1%,0.5%,0.3%,0.2%,0.5%",2006,130.0,"Christian Bale,Hugh Jackman,Scarlett Johansson",The Prestige
+,$31500000,USA,Francis Ford Coppola," Drama, War",8.5,"27.0%,26.7%,23.6%,12.4%,4.8%,2.2%,1.1%,0.7%,0.5%,1.1%",1979,147.0,"Martin Sheen,Marlon Brando,Robert Duvall",Apocalypse Now
+$39723096,$9000000,USA,Christopher Nolan," Mystery, Thriller",8.5,"23.2%,30.3%,26.5%,12.0%,3.9%,1.6%,0.8%,0.5%,0.4%,1.0%",2000,113.0,"Guy Pearce,Carrie-Anne Moss,Joe Pantoliano",Memento
+$2046664003,$321000000,USA,"Anthony Russo,Joe Russo"," Action, Adventure, Fantasy, Sci-Fi",8.6,"40.4%,24.3%,18.2%,9.1%,3.5%,1.4%,0.6%,0.4%,0.3%,1.8%",2018,149.0,"Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo",Avengers: Infinity War
+$203630630,$11000000,"UK,USA",Ridley Scott," Horror, Sci-Fi",8.5,"22.8%,28.5%,28.0%,13.2%,4.1%,1.5%,0.6%,0.4%,0.3%,0.6%",1979,116.0,"Sigourney Weaver,Tom Skerritt,John Hurt",Alien
+$11000000,$2000000,USA,Charles Chaplin," Comedy, Drama, War",8.5,"26.3%,27.3%,25.4%,11.7%,4.1%,1.8%,0.8%,0.5%,0.5%,1.6%",1940,125.0,"Charles Chaplin,Paulette Goddard,Jack Oakie",The Great Dictator
+,$5000000,"Italy,France",Giuseppe Tornatore, Drama,8.5,"28.6%,27.4%,24.4%,11.1%,3.8%,1.7%,0.8%,0.5%,0.5%,1.3%",1988,155.0,"Philippe Noiret,Enzo Cannavale,Antonella Attili",Cinema Paradiso
+,$3700000,Japan,Isao Takahata," Animation, Drama, War",8.5,"29.9%,26.2%,23.2%,11.2%,3.9%,1.7%,0.8%,0.6%,0.5%,1.8%",1988,89.0,"Tsutomu Tatsumi,Ayano Shiraishi,Akemi Yamaguchi",Grave of the Fireflies
+$5303175,$1752000,USA,Billy Wilder," Drama, Film-Noir",8.4,"25.7%,24.8%,25.3%,13.1%,4.8%,2.2%,1.0%,0.7%,0.5%,1.8%",1950,110.0,"William Holden,Gloria Swanson,Erich von Stroheim",Sunset Blvd.
+$77356819,$2000000,Germany,Florian Henckel von Donnersmarck," Drama, Thriller",8.4,"21.4%,32.2%,28.2%,11.4%,3.2%,1.3%,0.6%,0.3%,0.3%,1.2%",2006,137.0,"Ulrich Mühe,Martina Gedeck,Sebastian Koch",The Lives of Others
+,$1800000,"USA,UK",Stanley Kubrick, Comedy,8.4,"29.3%,25.2%,22.4%,12.1%,4.8%,2.3%,1.1%,0.7%,0.5%,1.6%",1964,95.0,"Peter Sellers,George C. Scott,Sterling Hayden",Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+,$935000,USA,Stanley Kubrick," Drama, War",8.4,"22.7%,27.6%,27.6%,12.9%,4.0%,1.7%,0.7%,0.5%,0.5%,1.6%",1957,88.0,"Kirk Douglas,Ralph Meeker,Adolphe Menjou",Paths of Glory
+,$19000000,"UK,USA",Stanley Kubrick," Drama, Horror",8.4,"22.8%,28.1%,26.8%,13.1%,4.7%,1.9%,0.9%,0.6%,0.4%,0.8%",1980,144.0,"Jack Nicholson,Shelley Duvall,Danny Lloyd",The Shining
+$425368238,$100000000,USA,Quentin Tarantino," Drama, Western",8.4,"21.7%,31.7%,27.6%,11.8%,3.7%,1.4%,0.6%,0.4%,0.3%,0.8%",2012,165.0,"Jamie Foxx,Christoph Waltz,Leonardo DiCaprio",Django Unchained
+$534767889,$180000000,USA,Andrew Stanton," Animation, Adventure, Family, Sci-Fi",8.4,"24.8%,27.2%,25.8%,13.0%,4.5%,1.8%,0.8%,0.6%,0.4%,1.2%",2008,98.0,"Ben Burtt,Elissa Knight,Jeff Garlin",WALL·E
+$159375308,JPY2400000000,Japan,Hayao Miyazaki," Animation, Adventure, Fantasy",8.4,"26.9%,27.0%,25.2%,12.2%,4.0%,1.6%,0.7%,0.5%,0.4%,1.4%",1997,134.0,"Yôji Matsuda,Yuriko Ishida,Yûko Tanaka",Princess Mononoke
+$16350000,$3000000,USA,Billy Wilder," Crime, Drama, Mystery, Thriller",8.4,"20.1%,28.5%,29.9%,12.6%,3.6%,1.8%,0.8%,0.5%,0.6%,1.6%",1957,116.0,"Tyrone Power,Marlene Dietrich,Charles Laughton",Witness for the Prosecution
+$226200000,$15000000,USA,Sam Mendes, Drama,8.4,"23.2%,27.6%,26.2%,13.0%,4.6%,2.0%,1.0%,0.6%,0.5%,1.2%",1999,122.0,"Kevin Spacey,Annette Bening,Thora Birch",American Beauty
+$1084939099,$250000000,"UK,USA",Christopher Nolan," Action, Thriller",8.4,"29.7%,27.4%,23.4%,11.3%,4.1%,1.6%,0.8%,0.5%,0.3%,0.9%",2012,164.0,"Christian Bale,Tom Hardy,Anne Hathaway",The Dark Knight Rises
+$14980005,$3000000,South Korea,Chan-wook Park," Action, Drama, Mystery, Thriller",8.4,"24.1%,28.9%,25.3%,11.7%,4.3%,1.9%,1.0%,0.6%,0.5%,1.5%",2003,120.0,"Min-sik Choi,Ji-tae Yu,Hye-jeong Kang",Oldeuboi
+$807082196,$175000000,USA,"Lee Unkrich,Adrian Molina"," Animation, Adventure, Comedy, Family, Fantasy, Music, Mystery",8.4,"27.9%,27.7%,26.3%,12.1%,3.5%,1.1%,0.4%,0.2%,0.2%,0.6%",2017,,"Anthony Gonzalez,Gael García Bernal,Benjamin Bratt",Coco
+$131060248,$18500000,USA,James Cameron," Action, Adventure, Sci-Fi, Thriller",8.4,"23.7%,26.3%,27.5%,13.8%,4.6%,1.8%,0.8%,0.4%,0.3%,0.7%",1986,137.0,"Sigourney Weaver,Michael Biehn,Carrie Henn",Aliens
+,$30000000,"Italy,USA,Canada",Sergio Leone," Crime, Drama",8.4,"25.6%,26.2%,26.2%,12.7%,4.4%,1.9%,0.9%,0.6%,0.4%,1.0%",1984,229.0,"Robert De Niro,James Woods,Elizabeth McGovern",Once Upon a Time in America
+$73482661,$14000000,West Germany,Wolfgang Petersen," Adventure, Drama, Thriller, War",8.4,"23.6%,28.2%,26.5%,12.5%,4.1%,1.8%,0.8%,0.5%,0.4%,1.4%",1981,149.0,"Jürgen Prochnow,Herbert Grönemeyer,Klaus Wennemann",Das Boot
+,$839727,USA,Orson Welles," Drama, Mystery",8.4,"29.7%,21.4%,21.8%,12.7%,5.7%,3.0%,1.5%,1.1%,0.8%,2.2%",1941,119.0,"Orson Welles,Joseph Cotten,Dorothy Comingore",Citizen Kane
+$210409945,$72000000,USA,Mel Gibson," Biography, Drama, History, War",8.4,"25.8%,25.8%,25.5%,13.1%,4.7%,2.0%,0.9%,0.6%,0.4%,1.0%",1995,178.0,"Mel Gibson,Sophie Marceau,Patrick McGoohan",Braveheart
+$25000000,$2479000,USA,Alfred Hitchcock," Mystery, Romance, Thriller",8.3,"23.1%,24.6%,27.4%,14.9%,5.2%,2.1%,0.9%,0.6%,0.4%,0.9%",1958,128.0,"James Stewart,Kim Novak,Barbara Bel Geddes",Vertigo
+$22213000,$3101000,USA,Alfred Hitchcock," Adventure, Mystery, Thriller",8.3,"21.2%,26.0%,29.0%,14.7%,4.6%,1.8%,0.8%,0.5%,0.4%,1.1%",1959,136.0,"Cary Grant,Eva Marie Saint,James Mason",North by Northwest
+,$1200000,USA,Quentin Tarantino," Crime, Drama, Thriller",8.3,"18.5%,29.0%,30.4%,13.8%,4.2%,1.6%,0.8%,0.5%,0.4%,0.8%",1992,99.0,"Harvey Keitel,Tim Roth,Michael Madsen",Reservoir Dogs
+$572705079,$32500000,USA,Richard Marquand," Action, Adventure, Fantasy, Sci-Fi",8.3,"23.3%,25.3%,28.6%,14.1%,4.6%,1.7%,0.7%,0.4%,0.3%,1.0%",1983,131.0,"Mark Hamill,Harrison Ford,Carrie Fisher",Star Wars: Episode VI - Return of the Jedi
+$357986087,JPY370000000,Japan,Makoto Shinkai," Animation, Drama, Fantasy, Romance",8.4,"31.7%,25.6%,23.5%,11.9%,3.7%,1.4%,0.5%,0.3%,0.3%,1.1%",2016,106.0,"Ryûnosuke Kamiki,Mone Kamishiraishi,Ryô Narita",Your Name.
+,,Germany,Fritz Lang," Crime, Mystery, Thriller",8.4,"23.6%,25.2%,25.6%,13.1%,4.8%,2.4%,1.1%,0.8%,0.7%,2.8%",1931,117.0,"Peter Lorre,Ellen Widmann,Inge Landgut",M
+$310000000,INR700000000,India,Nitesh Tiwari," Action, Biography, Drama, Sport",8.5,"37.7%,24.9%,20.3%,8.7%,2.5%,1.2%,0.6%,0.5%,0.5%,3.3%",2016,161.0,"Aamir Khan,Sakshi Tanwar,Fatima Sana Shaikh",Dangal
+$7390108,$4500000,USA,Darren Aronofsky, Drama,8.3,"24.4%,27.2%,25.0%,12.4%,4.8%,2.2%,1.2%,0.8%,0.6%,1.4%",2000,102.0,"Ellen Burstyn,Jared Leto,Jennifer Connelly",Requiem for a Dream
+,$18000000,"USA,France,Czechoslovakia",Milos Forman," Biography, Drama, History, Music",8.3,"23.0%,25.7%,27.7%,14.3%,4.8%,1.9%,0.8%,0.5%,0.3%,0.9%",1984,160.0,"F. Murray Abraham,Tom Hulce,Elizabeth Berridge",Amadeus
+$21897373,,India,"Aamir Khan,Amole Gupte"," Drama, Family",8.4,"35.1%,27.4%,20.2%,8.7%,2.8%,1.4%,0.7%,0.5%,0.6%,2.7%",2007,165.0,"Darsheel Safary,Aamir Khan,Tisca Chopra",Taare Zameen Par
+$77324144,$15000000,UK,David Lean," Adventure, Biography, Drama, History, War",8.3,"26.8%,22.9%,24.0%,13.4%,5.3%,2.5%,1.2%,0.8%,0.6%,2.5%",1962,216.0,"Peter O'Toole,Alec Guinness,Anthony Quinn",Lawrence of Arabia
+$73169222,$20000000,USA,Michel Gondry," Drama, Romance, Sci-Fi",8.3,"24.5%,26.7%,25.1%,13.0%,5.0%,2.1%,1.1%,0.7%,0.5%,1.3%",2004,108.0,"Jim Carrey,Kate Winslet,Tom Wilkinson",Eternal Sunshine of the Spotless Mind
+,$2200000,"UK,USA",Stanley Kubrick," Crime, Drama, Sci-Fi",8.3,"25.6%,25.4%,23.7%,12.7%,5.2%,2.5%,1.4%,1.0%,0.8%,1.8%",1971,136.0,"Malcolm McDowell,Patrick Magee,Michael Bates",A Clockwork Orange
+$173921954,FRF77000000,"France,Germany",Jean-Pierre Jeunet," Comedy, Romance",8.3,"26.9%,25.7%,23.7%,12.7%,4.8%,2.1%,1.0%,0.7%,0.6%,1.7%",2001,122.0,"Audrey Tautou,Mathieu Kassovitz,Rufus",Amélie
+$80000000,INR550000000,India,Rajkumar Hirani," Comedy, Drama",8.4,"38.4%,25.9%,17.8%,8.4%,3.1%,1.6%,0.8%,0.7%,0.6%,2.7%",2009,170.0,"Aamir Khan,Madhavan,Mona Singh",3 Idiots
+,$927262,USA,Billy Wilder," Crime, Drama, Film-Noir, Mystery, Thriller",8.3,"20.6%,24.5%,29.1%,14.6%,4.8%,2.2%,1.1%,0.7%,0.6%,1.9%",1944,107.0,"Fred MacMurray,Barbara Stanwyck,Edward G. Robinson",Double Indemnity
+$190700000,$12000000,"UK,USA",Stanley Kubrick," Adventure, Sci-Fi",8.3,"31.1%,21.6%,20.1%,11.8%,5.8%,3.2%,1.8%,1.4%,1.1%,2.2%",1968,149.0,"Keir Dullea,Gary Lockwood,William Sylvester",2001: A Space Odyssey
+$373554033,$30000000,USA,John Lasseter," Animation, Adventure, Comedy, Family, Fantasy",8.3,"20.4%,24.8%,31.5%,15.0%,4.7%,1.7%,0.7%,0.4%,0.3%,0.6%",1995,81.0,"Tom Hanks,Tim Allen,Don Rickles",Toy Story
+,$1300000,USA,Martin Scorsese," Crime, Drama",8.3,"21.3%,25.6%,27.7%,15.0%,5.5%,2.2%,0.9%,0.6%,0.4%,0.8%",1976,114.0,"Robert De Niro,Jodie Foster,Cybill Shepherd",Taxi Driver
+$13979088,$2540800,USA,"Stanley Donen,Gene Kelly"," Comedy, Musical, Romance",8.3,"26.2%,22.7%,25.5%,14.2%,5.4%,2.4%,1.1%,0.7%,0.5%,1.4%",1952,103.0,"Gene Kelly,Donald O'Connor,Debbie Reynolds",Singin' in the Rain
+,$30000000,"UK,USA",Stanley Kubrick," Drama, War",8.3,"17.1%,28.1%,32.3%,14.8%,4.3%,1.5%,0.6%,0.4%,0.2%,0.6%",1987,116.0,"Matthew Modine,R. Lee Ermey,Vincent D'Onofrio",Full Metal Jacket
+$313600000,$75000000,"Germany,USA","Quentin Tarantino,Eli Roth"," Adventure, Drama, War",8.3,"19.8%,29.0%,28.1%,13.1%,4.6%,1.9%,1.0%,0.7%,0.5%,1.3%",2009,153.0,"Brad Pitt,Diane Kruger,Eli Roth",Inglourious Basterds
+,$2000000,USA,Robert Mulligan," Crime, Drama",8.3,"23.2%,24.7%,27.6%,14.5%,5.0%,2.1%,0.8%,0.5%,0.4%,1.2%",1962,129.0,"Gregory Peck,John Megna,Frank Overton",To Kill a Mockingbird
+,$133000,Italy,Vittorio De Sica, Drama,8.3,"23.5%,24.7%,26.7%,13.8%,4.9%,2.3%,1.0%,0.7%,0.6%,1.7%",1948,89.0,"Lamberto Maggiorani,Enzo Staiola,Lianella Carell",Bicycle Thieves
+,$250000,USA,Charles Chaplin," Comedy, Drama, Family",8.3,"22.7%,24.0%,29.9%,13.8%,4.2%,1.9%,0.8%,0.5%,0.5%,1.6%",1921,68.0,"Charles Chaplin,Edna Purviance,Jackie Coogan",The Kid
+,$5500000,USA,George Roy Hill," Comedy, Crime, Drama",8.3,"19.3%,27.1%,31.0%,14.6%,4.1%,1.6%,0.6%,0.4%,0.3%,0.9%",1973,129.0,"Paul Newman,Robert Redford,Robert Shaw",The Sting
+$1063171911,$200000000,USA,Lee Unkrich," Animation, Adventure, Comedy, Family, Fantasy",8.3,"22.7%,24.7%,27.1%,15.2%,5.4%,2.1%,0.9%,0.5%,0.4%,1.0%",2010,103.0,"Tom Hanks,Tim Allen,Joan Cusack",Toy Story 3
+$225933435,$10000000,USA,Gus Van Sant," Drama, Romance",8.3,"19.4%,27.5%,31.8%,14.2%,4.0%,1.4%,0.6%,0.3%,0.3%,0.5%",1997,126.0,"Robin Williams,Matt Damon,Ben Affleck",Good Will Hunting
+$18309793,$3800000,"Denmark,Sweden",Thomas Vinterberg, Drama,8.3,"15.7%,29.7%,33.9%,13.9%,3.6%,1.3%,0.5%,0.4%,0.3%,0.7%",2012,115.0,"Mads Mikkelsen,Thomas Bo Larsen,Annika Wedderkopp",Jagten
+$83557872,£6000000,"UK,USA",Guy Ritchie," Comedy, Crime",8.3,"20.1%,28.0%,30.3%,13.7%,4.2%,1.5%,0.7%,0.4%,0.3%,0.7%",2000,104.0,"Jason Statham,Brad Pitt,Benicio Del Toro",Snatch
+$5028948,£229575,UK,"Terry Gilliam,Terry Jones"," Adventure, Comedy, Fantasy",8.3,"24.9%,25.1%,25.4%,13.6%,5.0%,2.2%,1.1%,0.7%,0.5%,1.3%",1975,91.0,"Graham Chapman,John Cleese,Eric Idle",Monty Python and the Holy Grail
+$65884703,$25000000,USA,Brian De Palma," Crime, Drama",8.3,"22.6%,25.9%,28.7%,14.0%,4.6%,1.8%,0.8%,0.5%,0.3%,0.7%",1983,170.0,"Al Pacino,Michelle Pfeiffer,Steven Bauer",Scarface
+,$600000,"Italy,Spain,West Germany",Sergio Leone, Western,8.3,"17.2%,26.8%,34.4%,14.6%,3.8%,1.3%,0.5%,0.4%,0.3%,0.8%",1965,132.0,"Clint Eastwood,Lee Van Cleef,Gian Maria Volontè",For a Few Dollars More
+$25000000,$3000000,USA,Billy Wilder," Comedy, Drama, Romance",8.3,"20.3%,24.4%,30.0%,15.1%,4.9%,2.0%,0.9%,0.6%,0.5%,1.4%",1960,125.0,"Jack Lemmon,Shirley MacLaine,Fred MacMurray",The Apartment
+$126216940,$35000000,USA,Curtis Hanson," Crime, Drama, Mystery, Thriller",8.3,"17.0%,27.5%,31.9%,15.2%,4.6%,1.7%,0.7%,0.4%,0.3%,0.7%",1997,138.0,"Kevin Spacey,Russell Crowe,Guy Pearce",L.A. Confidential
+,DEM6000000,Germany,Fritz Lang," Drama, Sci-Fi",8.3,"24.8%,23.3%,25.0%,13.4%,5.3%,2.8%,1.3%,0.9%,0.7%,2.3%",1927,153.0,"Brigitte Helm,Alfred Abel,Gustav Fröhlich",Metropolis
+$24426169,$500000,"Iran,France",Asghar Farhadi," Crime, Drama, Family, Mystery",8.3,"31.1%,23.5%,24.1%,12.2%,3.9%,1.8%,0.8%,0.5%,0.4%,1.7%",2011,123.0,"Payman Maadi,Leila Hatami,Sareh Bayat",A Separation
+$474171806,$48000000,USA,Steven Spielberg," Action, Adventure, Fantasy",8.3,"18.6%,25.0%,32.1%,15.9%,4.8%,1.7%,0.7%,0.4%,0.3%,0.6%",1989,127.0,"Harrison Ford,Sean Connery,Alison Doody",Indiana Jones and the Last Crusade
+,$250000,Japan,Akira Kurosawa," Crime, Drama, Mystery",8.3,"23.5%,24.0%,25.7%,14.3%,5.1%,2.5%,1.2%,0.8%,0.7%,2.3%",1950,88.0,"Toshirô Mifune,Machiko Kyô,Masayuki Mori",Rashômon
+$731342744,$175000000,USA,"Pete Docter,Bob Peterson"," Animation, Adventure, Comedy, Family",8.3,"20.1%,26.1%,29.3%,15.5%,5.2%,1.8%,0.7%,0.4%,0.3%,0.6%",2009,96.0,"Edward Asner,Jordan Nagai,John Ratzenberger",Up
+,$1400000,USA,Joseph L. Mankiewicz, Drama,8.3,"24.2%,22.4%,26.5%,14.5%,5.2%,2.7%,1.2%,0.9%,0.6%,1.9%",1950,138.0,"Bette Davis,Anne Baxter,George Sanders",All About Eve
+,,Japan,Akira Kurosawa," Action, Drama, Thriller",8.3,"20.7%,25.6%,29.1%,13.3%,4.2%,2.0%,0.9%,0.7%,0.8%,2.7%",1961,110.0,"Toshirô Mifune,Eijirô Tôno,Tatsuya Nakadai",Yojimbo
+$374218673,$150000000,"USA,UK",Christopher Nolan," Action, Adventure, Thriller",8.3,"19.2%,26.3%,32.2%,14.7%,4.1%,1.4%,0.6%,0.3%,0.3%,0.8%",2005,140.0,"Christian Bale,Michael Caine,Ken Watanabe",Batman Begins
+,$2883848,USA,Billy Wilder," Comedy, Romance",8.3,"22.9%,22.7%,27.8%,15.7%,5.6%,2.2%,0.9%,0.6%,0.5%,1.1%",1959,121.0,"Marilyn Monroe,Tony Curtis,Jack Lemmon",Some Like It Hot
+$159157447,$14400000,USA,Clint Eastwood," Drama, Western",8.2,"18.5%,25.6%,30.9%,15.7%,5.0%,1.8%,0.8%,0.5%,0.3%,0.9%",1992,130.0,"Clint Eastwood,Gene Hackman,Morgan Freeman",Unforgiven
+$92180910,€13500000,"Germany,Austria,Italy",Oliver Hirschbiegel," Biography, Drama, History, War",8.2,"17.7%,27.0%,32.5%,14.9%,4.1%,1.5%,0.6%,0.4%,0.3%,1.1%",2004,156.0,"Bruno Ganz,Alexandra Maria Lara,Ulrich Matthes",Downfall
+,$3000000,USA,John Huston," Adventure, Drama, Western",8.3,"20.1%,23.2%,29.3%,15.7%,5.2%,2.3%,1.0%,0.7%,0.6%,1.9%",1948,126.0,"Humphrey Bogart,Walter Huston,Tim Holt",The Treasure of the Sierra Madre
+$140767956,$28000000,USA,John McTiernan," Action, Thriller",8.2,"18.1%,23.8%,32.5%,16.9%,5.1%,1.7%,0.7%,0.4%,0.2%,0.6%",1988,132.0,"Bruce Willis,Alan Rickman,Bonnie Bedelia",Die Hard
+$107000000,$60000000,USA,Michael Mann," Crime, Drama, Thriller",8.2,"20.3%,25.3%,30.2%,15.3%,5.0%,1.8%,0.7%,0.4%,0.3%,0.6%",1995,170.0,"Al Pacino,Robert De Niro,Val Kilmer",Heat
+,,Japan,Akira Kurosawa, Drama,8.3,"27.1%,22.0%,24.0%,12.4%,4.4%,2.6%,1.3%,0.9%,0.9%,4.4%",1952,143.0,"Takashi Shimura,Nobuo Kaneko,Shin'ichi Himori",Ikiru
+,$18000000,USA,Martin Scorsese," Biography, Drama, Sport",8.2,"20.7%,23.7%,29.2%,15.6%,5.4%,2.2%,1.0%,0.6%,0.5%,1.1%",1980,129.0,"Robert De Niro,Cathy Moriarty,Joe Pesci",Raging Bull
+$12597210,$6800000,"Canada,France",Denis Villeneuve," Drama, Mystery, War",8.2,"18.7%,28.7%,30.5%,13.1%,3.9%,1.8%,0.9%,0.6%,0.6%,1.3%",2010,131.0,"Lubna Azabal,Mélissa Désormeaux-Poulin,Maxim Gaudette",Incendies
+,$4000000,USA,John Sturges," Adventure, Drama, History, Thriller, War",8.2,"18.7%,25.3%,32.1%,15.5%,4.5%,1.6%,0.6%,0.4%,0.3%,1.1%",1963,172.0,"Steve McQueen,James Garner,Richard Attenborough",The Great Escape
+,,Turkey,Çagan Irmak," Drama, Family",8.4,"42.5%,20.8%,17.7%,9.4%,3.1%,1.6%,0.8%,0.6%,0.6%,2.8%",2005,113.0,"Çetin Tekindor,Fikret Kuskan,Hümeyra",Babam ve Oglum
+,$180000,Iran,Majid Majidi," Drama, Family",8.3,"27.0%,24.3%,27.1%,12.9%,3.6%,1.7%,0.7%,0.5%,0.6%,1.6%",1997,89.0,"Mohammad Amir Naji,Amir Farrokh Hashemian,Bahare Seddiqi",Children of Heaven
+$87041569,€13500000,"Spain,Mexico,USA",Guillermo del Toro," Drama, Fantasy, War",8.2,"21.2%,25.5%,26.8%,14.9%,5.8%,2.3%,1.1%,0.7%,0.5%,1.3%",2006,118.0,"Ivana Baquero,Ariadna Gil,Sergi López",Pan's Labyrinth
+$30000000,$6000000,USA,Roman Polanski," Drama, Mystery, Thriller",8.2,"19.3%,24.0%,29.7%,16.9%,5.6%,2.0%,0.8%,0.4%,0.3%,0.9%",1974,130.0,"Jack Nicholson,Faye Dunaway,John Huston",Chinatown
+,,UK,Carol Reed," Film-Noir, Mystery, Thriller",8.2,"22.9%,22.5%,26.4%,15.6%,6.0%,2.6%,1.1%,0.8%,0.5%,1.5%",1949,104.0,"Orson Welles,Joseph Cotten,Alida Valli",The Third Man
+,$3700000,Japan,Hayao Miyazaki," Animation, Family, Fantasy",8.2,"23.4%,23.4%,28.7%,15.1%,5.0%,1.8%,0.8%,0.4%,0.3%,1.2%",1988,86.0,"Hitoshi Takagi,Noriko Hidaka,Chika Sakamoto",My Neighbor Totoro
+,$11500000,"Japan,France",Akira Kurosawa," Action, Drama",8.2,"24.0%,23.7%,25.3%,13.5%,5.2%,2.7%,1.3%,0.9%,0.7%,2.6%",1985,162.0,"Tatsuya Nakadai,Akira Terao,Jinpachi Nezu",Ran
+$235184110,$24000000,Japan,Hayao Miyazaki," Animation, Adventure, Family, Fantasy",8.2,"23.2%,24.4%,29.0%,14.6%,4.7%,1.7%,0.7%,0.4%,0.3%,1.0%",2004,119.0,"Chieko Baishô,Takuya Kimura,Tatsuya Gashûin",Howl's Moving Castle
+$10000000,$3000000,USA,Stanley Kramer," Drama, War",8.2,"18.8%,24.6%,30.9%,14.8%,4.5%,2.1%,0.8%,0.6%,0.5%,2.5%",1961,186.0,"Spencer Tracy,Burt Lancaster,Richard Widmark",Judgment at Nuremberg
+$33965843,$2000000,"Argentina,Spain",Juan José Campanella," Drama, Mystery, Romance, Thriller",8.2,"18.7%,27.2%,30.9%,14.6%,4.5%,1.7%,0.7%,0.4%,0.3%,0.9%",2009,129.0,"Ricardo Darín,Soledad Villamil,Pablo Rago",The Secret in Their Eyes
+,$923000,USA,Charles Chaplin," Adventure, Comedy, Drama, Family",8.2,"21.2%,21.8%,30.4%,15.4%,5.1%,2.3%,0.9%,0.6%,0.5%,1.8%",1925,95.0,"Charles Chaplin,Mack Swain,Tom Murray",The Gold Rush
+,$3000000,"UK,USA",David Lean," Adventure, Drama, War",8.2,"17.1%,24.4%,32.1%,16.8%,5.1%,1.9%,0.8%,0.5%,0.4%,1.0%",1957,161.0,"William Holden,Alec Guinness,Jack Hawkins",The Bridge on the River Kwai
+$157880842,$15000000,"UK,USA",Martin McDonagh," Comedy, Crime, Drama",8.2,"14.3%,28.5%,33.4%,15.5%,4.5%,1.6%,0.7%,0.4%,0.3%,0.6%",2017,115.0,"Frances McDormand,Woody Harrelson,Sam Rockwell","Three Billboards Outside Ebbing, Missouri"
+$313542341,$58000000,USA,Ron Howard," Biography, Drama",8.2,"17.8%,26.6%,33.1%,14.9%,4.4%,1.5%,0.6%,0.4%,0.2%,0.5%",2001,135.0,"Russell Crowe,Ed Harris,Jennifer Connelly",A Beautiful Mind
+$28356188,£960000,UK,Guy Ritchie," Comedy, Crime",8.2,"17.7%,26.2%,32.8%,15.2%,4.4%,1.6%,0.7%,0.4%,0.3%,0.8%",1998,107.0,"Jason Flemyng,Dexter Fletcher,Nick Moran","Lock, Stock and Two Smoking Barrels"
+,$910000,USA,Elia Kazan," Crime, Drama, Thriller",8.2,"20.3%,22.9%,29.6%,15.7%,5.4%,2.3%,1.0%,0.6%,0.5%,1.7%",1954,108.0,"Marlon Brando,Karl Malden,Lee J. Cobb",On the Waterfront
+,,"USA,France",Martin Scorsese," Crime, Drama",8.2,"17.2%,25.1%,33.4%,15.8%,4.7%,1.7%,0.7%,0.4%,0.3%,0.7%",1995,178.0,"Robert De Niro,Sharon Stone,Joe Pesci",Casino
+,$150000,Sweden,Ingmar Bergman," Drama, Fantasy",8.2,"25.5%,21.7%,24.7%,14.3%,5.7%,2.9%,1.3%,0.8%,0.7%,2.2%",1957,96.0,"Max von Sydow,Gunnar Björnstrand,Bengt Ekerot",The Seventh Seal
+$857611174,$175000000,USA,"Pete Docter,Ronnie Del Carmen"," Animation, Adventure, Comedy, Drama, Family, Fantasy",8.2,"19.5%,25.5%,28.3%,16.2%,5.9%,2.1%,0.8%,0.5%,0.3%,0.8%",2015,95.0,"Amy Poehler,Bill Hader,Lewis Black",Inside Out
+$21989069,$13000000,"Ireland,Canada,UK,USA",Lenny Abrahamson," Drama, Thriller",8.2,"15.6%,26.7%,34.0%,16.2%,4.5%,1.4%,0.5%,0.3%,0.2%,0.5%",2015,118.0,"Brie Larson,Jacob Tremblay,Sean Bridgers",Room
+,$5000000,"USA,UK",David Lynch," Biography, Drama",8.2,"18.1%,23.8%,31.6%,16.6%,5.4%,2.1%,0.9%,0.4%,0.3%,0.9%",1980,124.0,"Anthony Hopkins,John Hurt,Anne Bancroft",The Elephant Man
+,$1500000,USA,Frank Capra," Comedy, Drama",8.2,"20.6%,23.3%,27.8%,15.7%,5.5%,2.5%,1.2%,0.8%,0.6%,1.9%",1939,129.0,"James Stewart,Jean Arthur,Claude Rains",Mr. Smith Goes to Washington
+$392000694,$100000000,USA,Martin Scorsese," Biography, Comedy, Crime, Drama",8.2,"19.0%,26.5%,28.9%,14.9%,5.3%,2.1%,1.0%,0.7%,0.5%,1.1%",2013,180.0,"Leonardo DiCaprio,Jonah Hill,Margot Robbie",The Wolf of Wall Street
+$132511035,$54000000,"USA,UK,Germany",James McTeigue," Action, Drama, Sci-Fi, Thriller",8.2,"23.0%,25.0%,26.5%,14.6%,5.6%,2.2%,1.0%,0.6%,0.4%,1.0%",2005,132.0,"Hugo Weaving,Natalie Portman,Rupert Graves",V for Vendetta
+$23057115,$25000000,USA,Gavin O'Connor," Drama, Sport",8.2,"20.2%,26.4%,30.1%,15.1%,4.7%,1.6%,0.6%,0.3%,0.3%,0.7%",2011,140.0,"Tom Hardy,Nick Nolte,Joel Edgerton",Warrior
+,$28000000,"USA,Hong Kong",Ridley Scott," Sci-Fi, Thriller",8.2,"24.5%,22.7%,24.4%,14.9%,6.7%,3.0%,1.4%,0.8%,0.6%,0.9%",1982,117.0,"Harrison Ford,Rutger Hauer,Sean Young",Blade Runner
+,$750000,USA,"Clyde Bruckman,Buster Keaton"," Action, Adventure, Comedy, Drama, War, Western",8.2,"22.4%,21.0%,27.4%,15.2%,5.5%,2.9%,1.3%,0.9%,0.7%,2.5%",1926,67.0,"Buster Keaton,Marion Mack,Glen Cavender",The General
+,,Sweden,Ingmar Bergman," Drama, Romance",8.2,"22.7%,21.9%,27.3%,14.7%,5.6%,2.7%,1.2%,0.8%,0.8%,2.3%",1957,91.0,"Victor Sjöström,Bibi Andersson,Ingrid Thulin",Wild Strawberries
+$13080000,$1400000,USA,Alfred Hitchcock," Crime, Thriller",8.2,"13.9%,24.1%,37.1%,16.5%,4.4%,1.7%,0.7%,0.4%,0.4%,0.9%",1954,105.0,"Ray Milland,Grace Kelly,Robert Cummings",Dial M for Murder
+$71558971,$3500000,UK,Danny Boyle, Drama,8.2,"17.7%,25.3%,31.6%,15.5%,5.1%,1.9%,0.9%,0.6%,0.4%,0.9%",1996,93.0,"Ewan McGregor,Ewen Bremner,Jonny Lee Miller",Trainspotting
+$171627166,$25000000,USA,"Ethan Coen,Joel Coen"," Crime, Drama, Thriller",8.1,"17.9%,25.4%,28.8%,15.3%,5.9%,2.6%,1.3%,0.8%,0.6%,1.5%",2007,122.0,"Tommy Lee Jones,Javier Bardem,Josh Brolin",No Country for Old Men
+$77208711,$25000000,USA,Paul Thomas Anderson, Drama,8.1,"21.8%,23.3%,26.2%,15.2%,6.3%,2.7%,1.4%,0.9%,0.7%,1.5%",2007,158.0,"Daniel Day-Lewis,Paul Dano,Ciarán Hinds",There Will Be Blood
+$672806292,$40000000,USA,M. Night Shyamalan," Drama, Mystery, Thriller",8.1,"16.0%,25.1%,32.7%,16.6%,5.5%,1.9%,0.8%,0.4%,0.3%,0.7%",1999,107.0,"Bruce Willis,Haley Joel Osment,Toni Collette",The Sixth Sense
+$400176459,$3977000,USA,"Victor Fleming,George Cukor,1 more credit"," Drama, History, Romance, War",8.2,"28.6%,19.6%,23.4%,13.8%,6.3%,3.1%,1.6%,1.1%,0.8%,1.7%",1939,238.0,"Clark Gable,Vivien Leigh,Thomas Mitchell",Gone with the Wind
+,$15000000,USA,John Carpenter," Horror, Mystery, Sci-Fi",8.1,"20.6%,21.9%,29.8%,16.7%,6.0%,2.3%,1.0%,0.6%,0.4%,0.8%",1982,109.0,"Kurt Russell,Wilford Brimley,Keith David",The Thing
+$36000000,$7000000,"USA,UK","Joel Coen,Ethan Coen"," Crime, Drama, Thriller",8.1,"16.4%,24.7%,31.2%,16.6%,5.8%,2.2%,1.0%,0.6%,0.4%,1.1%",1996,98.0,"William H. Macy,Frances McDormand,Steve Buscemi",Fargo
+$269958228,$33000000,"Germany,USA",Clint Eastwood, Drama,8.1,"15.4%,26.4%,32.7%,16.7%,5.1%,1.7%,0.7%,0.4%,0.3%,0.6%",2008,116.0,"Clint Eastwood,Bee Vang,Christopher Carley",Gran Torino
+,$15000000,"USA,UK",Michael Cimino," Drama, War",8.1,"18.9%,24.3%,29.5%,15.6%,5.7%,2.5%,1.2%,0.7%,0.5%,1.0%",1978,183.0,"Robert De Niro,Christopher Walken,John Cazale",The Deer Hunter
+$936743261,$94000000,USA,"Andrew Stanton,Lee Unkrich"," Animation, Adventure, Comedy, Family, Fantasy",8.1,"18.0%,22.6%,32.7%,17.6%,5.5%,1.8%,0.7%,0.4%,0.3%,0.6%",2003,100.0,"Albert Brooks,Ellen DeGeneres,Alexander Gould",Finding Nemo
+,,Soviet Union,Elem Klimov," Drama, War",8.2,"27.9%,21.2%,23.9%,12.6%,4.7%,2.5%,1.3%,0.9%,0.9%,4.0%",1985,142.0,"Aleksey Kravchenko,Olga Mironova,Liubomiras Laucevicius",Come and See
+,,USA,Buster Keaton," Action, Comedy, Romance",8.2,"22.0%,21.9%,28.6%,13.9%,5.0%,2.6%,1.2%,0.9%,0.8%,3.2%",1924,45.0,"Buster Keaton,Kathryn McGuire,Joe Keaton",Sherlock Jr.
+$46189568,$15000000,"USA,UK","Joel Coen,Ethan Coen"," Comedy, Crime",8.1,"23.2%,22.2%,26.1%,15.6%,6.4%,2.7%,1.3%,0.8%,0.6%,1.2%",1998,117.0,"Jeff Bridges,John Goodman,Julianne Moore",The Big Lebowski
+$180949045,$30000000,USA,Quentin Tarantino," Action, Crime, Thriller",8.1,"18.7%,24.0%,29.6%,15.0%,5.6%,2.5%,1.3%,0.9%,0.8%,1.8%",2003,111.0,"Uma Thurman,David Carradine,Daryl Hannah",Kill Bill: Vol. 1
+$294804195,$80000000,USA,Martin Scorsese," Mystery, Thriller",8.1,"17.3%,26.5%,32.0%,15.2%,5.1%,1.8%,0.8%,0.4%,0.3%,0.5%",2010,138.0,"Leonardo DiCaprio,Emily Mortimer,Mark Ruffalo",Shutter Island
+$16217773,$3200000,USA,Stuart Rosenberg," Crime, Drama",8.1,"18.1%,23.5%,31.8%,16.8%,5.3%,2.0%,0.8%,0.5%,0.3%,1.0%",1967,126.0,"Paul Newman,George Kennedy,Strother Martin",Cool Hand Luke
+$7592465,$1288000,USA,Alfred Hitchcock," Drama, Mystery, Romance, Thriller",8.1,"18.8%,22.5%,30.5%,16.6%,5.7%,2.3%,1.0%,0.6%,0.5%,1.5%",1940,130.0,"Laurence Olivier,Joan Fontaine,George Sanders",Rebecca
+,,Japan,Yasujirô Ozu, Drama,8.2,"25.5%,19.0%,25.7%,14.6%,5.5%,3.0%,1.5%,1.0%,0.9%,3.3%",1953,136.0,"Chishû Ryû,Chieko Higashiyama,Sô Yamamura",Tokyo Story
+$175302354,$40000000,"Australia,USA",Mel Gibson," Biography, Drama, History, War",8.1,"20.4%,26.1%,29.7%,15.1%,4.8%,1.8%,0.8%,0.4%,0.3%,0.6%",2016,139.0,"Andrew Garfield,Sam Worthington,Luke Bracey",Hacksaw Ridge
+$1739445,AUD8240000,Australia,Adam Elliot," Animation, Comedy, Drama",8.1,"18.9%,24.9%,30.1%,15.5%,5.1%,2.1%,0.9%,0.6%,0.5%,1.3%",2009,92.0,"Toni Collette,Philip Seymour Hoffman,Eric Bana",Mary and Max
+,,USA,F.W. Murnau," Drama, Romance",8.2,"25.9%,17.4%,25.3%,15.4%,5.9%,3.3%,1.6%,1.1%,1.0%,3.1%",1927,94.0,"George O'Brien,Janet Gaynor,Margaret Livingston",Sunrise
+$369330363,$61000000,USA,David Fincher," Crime, Drama, Mystery, Thriller",8.1,"13.5%,26.8%,34.0%,16.3%,5.1%,1.8%,0.8%,0.5%,0.3%,0.8%",2014,149.0,"Ben Affleck,Rosamund Pike,Neil Patrick Harris",Gone Girl
+$494878759,$165000000,USA,"Dean DeBlois,Chris Sanders"," Animation, Action, Adventure, Comedy, Family, Fantasy",8.1,"19.0%,23.5%,31.8%,17.3%,5.2%,1.6%,0.6%,0.3%,0.2%,0.6%",2010,98.0,"Jay Baruchel,Gerard Butler,Christopher Mintz-Plasse",How to Train Your Dragon
+,,USA,Bradley Cooper," Drama, Music, Romance",8.3,"35.2%,22.9%,21.4%,11.1%,4.1%,1.6%,0.7%,0.5%,0.4%,2.1%",2018,136.0,"Lady Gaga,Bradley Cooper,Sam Elliott",A Star Is Born
+$36353750,$3300000,"Argentina,Spain",Damián Szifron," Comedy, Drama, Thriller",8.1,"15.6%,25.7%,34.2%,16.4%,4.5%,1.6%,0.6%,0.4%,0.3%,0.7%",2014,122.0,"Darío Grandinetti,María Marull,Mónica Villa",Relatos salvajes
+$1029153882,$63000000,USA,Steven Spielberg," Adventure, Sci-Fi, Thriller",8.1,"18.0%,20.9%,32.7%,18.0%,6.0%,2.2%,0.9%,0.5%,0.3%,0.5%",1993,127.0,"Sam Neill,Laura Dern,Jeff Goldblum",Jurassic Park
+$56255142,$15000000,USA,Sean Penn," Adventure, Biography, Drama",8.1,"21.0%,24.8%,27.6%,15.2%,5.6%,2.3%,1.1%,0.7%,0.5%,1.2%",2007,148.0,"Emile Hirsch,Vince Vaughn,Catherine Keener",Into the Wild
+$1979000,TRL1200000,"Turkey,France,Bulgaria",Yavuz Turgul," Crime, Drama, Thriller",8.3,"42.2%,21.1%,17.7%,9.1%,3.3%,1.7%,0.8%,0.7%,0.6%,2.9%",1996,128.0,"Sener Sen,Ugur Yücel,Sermin Hürmeriç",The Bandit
+$36045115,$4000000,UK,Terry Jones, Comedy,8.1,"19.5%,23.3%,29.1%,16.4%,6.0%,2.4%,1.1%,0.6%,0.5%,1.1%",1979,94.0,"Graham Chapman,John Cleese,Michael Palin",Life of Brian
+,$325000,USA,Frank Capra," Comedy, Romance",8.1,"20.0%,21.1%,29.8%,16.6%,5.6%,2.6%,1.1%,0.7%,0.6%,1.9%",1934,105.0,"Clark Gable,Claudette Colbert,Walter Connolly",It Happened One Night
+$40700000,$13000000,"Ireland,UK,USA",Jim Sheridan," Biography, Drama",8.1,"14.5%,24.7%,36.1%,16.6%,4.4%,1.6%,0.7%,0.4%,0.3%,0.8%",1993,133.0,"Daniel Day-Lewis,Pete Postlethwaite,Alison Crosbie",In the Name of the Father
+,$6000000,USA,Oliver Stone," Drama, War",8.1,"14.8%,23.8%,35.0%,17.1%,5.2%,1.8%,0.8%,0.4%,0.3%,0.8%",1986,120.0,"Charlie Sheen,Tom Berenger,Willem Dafoe",Platoon
+$174600318,$25000000,"USA,Germany",Wes Anderson," Adventure, Comedy, Drama",8.1,"15.6%,26.0%,31.3%,16.3%,5.8%,2.2%,1.0%,0.6%,0.4%,0.7%",2014,99.0,"Ralph Fiennes,F. Murray Abraham,Mathieu Amalric",The Grand Budapest Hotel
+,$8000000,USA,Rob Reiner," Adventure, Drama",8.1,"18.6%,22.0%,33.0%,17.6%,5.3%,1.7%,0.6%,0.3%,0.2%,0.6%",1986,89.0,"Wil Wheaton,River Phoenix,Corey Feldman",Stand by Me
+$264118201,$60000000,USA,Peter Weir," Comedy, Drama, Sci-Fi",8.1,"15.0%,23.1%,34.6%,17.8%,5.6%,1.9%,0.8%,0.4%,0.3%,0.5%",1998,103.0,"Jim Carrey,Ed Harris,Laura Linney",The Truman Show
+,,USA,Sidney Lumet, Drama,8.1,"19.8%,21.6%,29.0%,17.1%,6.3%,2.5%,1.1%,0.6%,0.4%,1.5%",1976,121.0,"Faye Dunaway,William Holden,Peter Finch",Network
+,RUR6000000,Soviet Union,Andrei Tarkovsky," Drama, Sci-Fi",8.1,"31.0%,19.6%,20.9%,12.5%,5.6%,3.3%,1.9%,1.4%,1.1%,2.7%",1979,162.0,"Alisa Freyndlikh,Aleksandr Kaydanovskiy,Anatoliy Solonitsyn",Stalker
+$36532987,$17500000,"UK,South Africa,Italy",Terry George," Biography, Drama, History, War",8.1,"15.3%,25.0%,34.7%,16.7%,4.5%,1.5%,0.6%,0.3%,0.3%,1.1%",2004,121.0,"Don Cheadle,Sophie Okonedo,Joaquin Phoenix",Hotel Rwanda
+$196200000,$15900000,USA,William Wyler," Adventure, Drama, History",8.1,"20.8%,20.9%,29.2%,16.5%,6.2%,2.7%,1.2%,0.7%,0.6%,1.3%",1959,212.0,"Charlton Heston,Jack Hawkins,Stephen Boyd",Ben-Hur
+,,Sweden,Ingmar Bergman," Drama, Thriller",8.1,"25.0%,20.2%,24.8%,14.4%,6.6%,3.2%,1.5%,1.1%,0.8%,2.4%",1966,85.0,"Bibi Andersson,Liv Ullmann,Margaretha Krook",Persona
+,$2800000,South Korea,Joon-ho Bong," Action, Crime, Drama, Mystery, Thriller",8.1,"16.0%,24.3%,33.2%,16.7%,4.9%,1.9%,0.8%,0.5%,0.4%,1.3%",2003,131.0,"Kang-ho Song,Sang-kyung Kim,Roe-ha Kim",Memories of Murder
+$187733202,$20000000,"USA,UK",Steve McQueen," Biography, Drama, History",8.1,"14.9%,25.2%,33.0%,16.9%,5.5%,1.9%,0.8%,0.5%,0.4%,0.9%",2013,134.0,"Chiwetel Ejiofor,Michael Kenneth Williams,Michael Fassbender",12 Years a Slave
+,RUR1000000,Soviet Union,Andrei Tarkovsky," Biography, Drama, History",8.2,"32.7%,17.3%,21.6%,12.9%,4.9%,3.1%,1.7%,1.2%,1.1%,3.5%",1966,165.0,"Anatoliy Solonitsyn,Ivan Lapikov,Nikolay Grinko",Andrei Rublev
+,,"France,Italy",Henri-Georges Clouzot," Adventure, Drama, Thriller",8.1,"19.2%,22.6%,28.8%,15.1%,4.7%,2.6%,1.1%,0.8%,0.8%,4.3%",1953,131.0,"Yves Montand,Charles Vanel,Peter van Eyck",The Wages of Fear
+$216763646,$30000000,USA,Clint Eastwood," Drama, Sport",8.1,"15.6%,24.1%,32.7%,16.8%,5.6%,2.1%,1.0%,0.6%,0.4%,1.1%",2004,132.0,"Hilary Swank,Clint Eastwood,Morgan Freeman",Million Dollar Baby
+,,India,Rakeysh Omprakash Mehra," Comedy, Drama",8.2,"34.7%,25.7%,19.3%,8.9%,3.4%,1.8%,1.0%,0.7%,0.8%,3.5%",2006,157.0,"Aamir Khan,Soha Ali Khan,Siddharth",Rang De Basanti
+,,France,Carl Theodor Dreyer," Biography, Drama, History",8.2,"28.7%,17.1%,22.8%,13.6%,5.5%,3.4%,1.9%,1.4%,1.2%,4.5%",1928,110.0,"Maria Falconetti,Eugene Silvain,André Berley",The Passion of Joan of Arc
+$90247624,$38000000,"UK,Germany,USA",Ron Howard," Action, Biography, Drama, Sport",8.1,"15.0%,25.6%,35.0%,17.2%,4.5%,1.3%,0.5%,0.2%,0.2%,0.4%",2013,123.0,"Daniel Brühl,Chris Hemsworth,Olivia Wilde",Rush
+,,"Australia,USA",George Miller," Action, Adventure, Sci-Fi, Thriller",8.1,"20.3%,24.0%,25.8%,15.3%,6.6%,3.0%,1.5%,1.0%,0.8%,1.5%",2015,120.0,"Tom Hardy,Charlize Theron,Nicholas Hoult",Mad Max: Fury Road
+$17200000,$2500000,"USA,Austria,Switzerland",Richard Linklater," Drama, Romance",8.1,"20.1%,22.4%,30.3%,16.0%,5.7%,2.4%,1.1%,0.6%,0.5%,1.1%",1995,101.0,"Ethan Hawke,Julie Delpy,Andrea Eckert",Before Sunrise
+,,France,François Truffaut," Crime, Drama",8.1,"21.3%,20.9%,28.3%,15.8%,5.9%,2.6%,1.2%,0.7%,0.6%,2.7%",1959,99.0,"Jean-Pierre Léaud,Albert Rémy,Claire Maurier",The 400 Blows
+$98275238,$20000000,USA,Tom McCarthy," Crime, Drama, History",8.1,"12.4%,25.2%,36.4%,18.1%,4.9%,1.5%,0.5%,0.3%,0.2%,0.5%",2015,129.0,"Mark Ruffalo,Michael Keaton,Rachel McAdams",Spotlight
+$47707417,$16000000,"UK,USA",Lasse Hallström," Drama, Family",8.1,"26.9%,21.0%,26.5%,15.2%,5.6%,2.2%,0.9%,0.5%,0.4%,0.9%",2009,93.0,"Richard Gere,Joan Allen,Cary-Hiroyuki Tagawa",Hachi: A Dog's Tale
+$122126687,$46000000,USA,Denis Villeneuve," Crime, Drama, Mystery, Thriller",8.1,"13.0%,25.1%,36.9%,17.5%,4.6%,1.5%,0.6%,0.3%,0.2%,0.4%",2013,153.0,"Hugh Jackman,Jake Gyllenhaal,Viola Davis",Prisoners
+$619021436,$97000000,USA,James Mangold," Action, Drama, Sci-Fi, Thriller",8.1,"22.1%,24.3%,27.3%,16.0%,5.8%,2.0%,0.9%,0.5%,0.3%,0.7%",2017,137.0,"Hugh Jackman,Patrick Stewart,Dafne Keen",Logan
+,$2000000,Mexico,Alejandro G. Iñárritu," Drama, Thriller",8.1,"15.4%,25.4%,33.3%,15.8%,5.0%,1.9%,0.8%,0.5%,0.5%,1.5%",2000,154.0,"Emilio Echevarría,Gael García Bernal,Goya Toledo",Amores Perros
+,$16000000,USA,Rob Reiner," Adventure, Family, Fantasy, Romance",8.1,"26.4%,21.2%,24.7%,15.2%,6.1%,2.6%,1.2%,0.7%,0.5%,1.3%",1987,98.0,"Cary Elwes,Mandy Patinkin,Robin Wright",The Princess Bride
+,$1000000,"Japan,USA",Hayao Miyazaki," Animation, Adventure, Fantasy, Sci-Fi",8.1,"20.3%,22.8%,29.9%,16.1%,5.3%,2.1%,0.9%,0.6%,0.5%,1.5%",1984,117.0,"Sumi Shimamoto,Mahito Tsujimura,Hisako Kyôda",Nausicaä of the Valley of the Wind
+$352114312,$52000000,"USA,Canada",Steven Spielberg," Biography, Crime, Drama",8.1,"13.5%,22.8%,38.3%,18.1%,4.7%,1.4%,0.5%,0.3%,0.2%,0.3%",2002,141.0,"Leonardo DiCaprio,Tom Hanks,Christopher Walken",Catch Me If You Can
+,$6000000,USA,George Roy Hill," Biography, Crime, Drama, Western",8.1,"16.2%,22.7%,32.8%,17.8%,5.8%,2.1%,0.8%,0.5%,0.4%,0.8%",1969,110.0,"Paul Newman,Robert Redford,Katharine Ross",Butch Cassidy and the Sundance Kid
+$1341511219,$125000000,"USA,UK",David Yates," Adventure, Drama, Fantasy, Mystery",8.1,"24.5%,20.8%,27.1%,16.0%,5.9%,2.3%,1.0%,0.6%,0.4%,1.4%",2011,130.0,"Daniel Radcliffe,Emma Watson,Rupert Grint",Harry Potter and the Deathly Hallows: Part 2
+$225000000,$960000,USA,John G. Avildsen," Drama, Sport",8.1,"18.7%,20.4%,32.7%,18.1%,5.7%,2.1%,0.8%,0.5%,0.3%,0.8%",1976,120.0,"Sylvester Stallone,Talia Shire,Burt Young",Rocky
+$31500000,$11000000,"UK,USA",Stanley Kubrick," Adventure, Drama, History, War",8.1,"22.5%,20.2%,27.2%,16.3%,6.4%,2.8%,1.3%,0.8%,0.6%,1.9%",1975,185.0,"Ryan O'Neal,Marisa Berenson,Patrick Magee",Barry Lyndon
+$562816256,$115000000,USA,"Pete Docter,David Silverman,1 more credit"," Animation, Adventure, Comedy, Family, Fantasy",8.1,"15.8%,21.0%,35.5%,18.8%,5.6%,1.7%,0.7%,0.3%,0.2%,0.5%",2001,92.0,"Billy Crystal,John Goodman,Mary Gibbs","Monsters, Inc."
+,$800000,USA,John Ford," Drama, History",8.1,"18.8%,20.3%,29.8%,16.8%,6.3%,3.1%,1.5%,1.0%,0.7%,1.9%",1940,129.0,"Henry Fonda,Jane Darwell,John Carradine",The Grapes of Wrath
+$1772000,$375000,USA,John Huston," Film-Noir, Mystery",8.1,"18.5%,21.1%,29.4%,17.8%,6.8%,2.7%,1.2%,0.7%,0.5%,1.4%",1941,100.0,"Humphrey Bogart,Mary Astor,Gladys George",The Maltese Falcon
+,,USA,Richard Kelly," Drama, Sci-Fi, Thriller",8.1,"21.9%,23.1%,26.6%,15.2%,6.2%,2.7%,1.4%,0.9%,0.7%,1.5%",2001,113.0,"Jake Gyllenhaal,Jena Malone,Mary McDonnell",Donnie Darko
+,,France,Henri-Georges Clouzot," Crime, Drama, Horror, Mystery, Thriller",8.1,"15.7%,22.3%,32.1%,16.7%,5.3%,2.7%,1.1%,0.8%,0.7%,2.7%",1955,117.0,"Simone Signoret,Véra Clouzot,Paul Meurisse",Diabolique
+,,Japan,Akira Kurosawa," Action, Crime, Drama, Thriller",8.2,"16.5%,23.3%,35.8%,15.2%,4.4%,1.7%,0.8%,0.6%,0.6%,1.0%",1962,96.0,"Toshirô Mifune,Tatsuya Nakadai,Keiju Kobayashi",Sanjuro
+$40000000,$6400000,"UK,USA",James Cameron," Action, Sci-Fi",8.0,"14.7%,20.3%,35.2%,19.6%,6.1%,2.0%,0.8%,0.4%,0.3%,0.5%",1984,107.0,"Arnold Schwarzenegger,Linda Hamilton,Michael Biehn",The Terminator
+$127767889,$22000000,"UK,India,USA",Richard Attenborough," Biography, Drama, History",8.1,"17.7%,21.9%,32.2%,17.0%,5.6%,2.2%,0.9%,0.5%,0.4%,1.6%",1982,191.0,"Ben Kingsley,John Gielgud,Rohini Hattangadi",Gandhi
+$140000000,$16400000,USA,Peter Weir," Comedy, Drama",8.1,"18.4%,22.1%,32.4%,16.9%,5.7%,2.2%,1.0%,0.5%,0.4%,0.6%",1989,128.0,"Robin Williams,Robert Sean Leonard,Ethan Hawke",Dead Poets Society
+,€2590000,France,Mathieu Kassovitz," Crime, Drama",8.1,"17.7%,23.9%,31.6%,16.0%,5.0%,2.1%,0.9%,0.6%,0.5%,1.7%",1995,98.0,"Vincent Cassel,Hubert Koundé,Saïd Taghmaoui",La Haine
+,$14600000,USA,Harold Ramis," Comedy, Fantasy, Romance",8.0,"16.1%,20.7%,32.4%,19.7%,6.4%,2.3%,0.9%,0.5%,0.3%,0.6%",1993,101.0,"Bill Murray,Andie MacDowell,Chris Elliott",Groundhog Day
+$259344059,$150000000,"USA,UK,Hungary,Canada",Denis Villeneuve," Drama, Mystery, Sci-Fi, Thriller",8.0,"18.9%,24.5%,25.7%,15.4%,7.0%,3.3%,1.6%,1.1%,0.8%,1.7%",2017,164.0,"Harrison Ford,Ryan Gosling,Ana de Armas",Blade Runner 2049
+,,"Italy,France",Federico Fellini, Drama,8.1,"20.7%,20.0%,29.6%,14.8%,5.2%,2.8%,1.4%,1.1%,1.1%,3.2%",1957,110.0,"Giulietta Masina,François Périer,Franca Marzi",The Nights of Cabiria
+$446092357,$30000000,"USA,Hong Kong",Damien Chazelle," Comedy, Drama, Music, Musical, Romance",8.1,"22.7%,22.9%,23.3%,14.9%,6.8%,3.3%,1.6%,1.1%,1.0%,2.4%",2016,128.0,"Ryan Gosling,Emma Stone,Rosemarie DeWitt",La La Land
+,$2800000,USA,"Victor Fleming,George Cukor,3 more credits"," Adventure, Family, Fantasy, Musical",8.0,"23.0%,18.0%,26.3%,17.8%,7.4%,3.2%,1.4%,0.8%,0.6%,1.4%",1939,102.0,"Judy Garland,Frank Morgan,Ray Bolger",The Wizard of Oz
+$470653000,$8000000,USA,Steven Spielberg," Adventure, Drama, Thriller",8.0,"18.5%,18.9%,29.7%,19.6%,7.3%,2.8%,1.2%,0.6%,0.4%,0.9%",1975,124.0,"Roy Scheider,Robert Shaw,Richard Dreyfuss",Jaws
+$216639112,$25000000,"USA,India,United Arab Emirates",Tate Taylor, Drama,8.1,"17.3%,23.5%,33.7%,16.7%,5.0%,1.7%,0.7%,0.4%,0.3%,0.8%",2011,146.0,"Emma Stone,Viola Davis,Octavia Spencer",The Help
+,,"Hong Kong,China",Kar-Wai Wong," Drama, Romance",8.1,"22.5%,21.8%,26.9%,15.4%,6.1%,2.7%,1.4%,0.8%,0.6%,1.8%",2000,98.0,"Tony Chiu-Wai Leung,Maggie Cheung,Ping Lam Siu",In the Mood for Love
+,$2500000,USA,Peter Bogdanovich," Comedy, Crime, Drama",8.1,"16.9%,20.1%,34.9%,18.8%,5.1%,2.2%,0.7%,0.4%,0.3%,0.7%",1973,102.0,"Ryan O'Neal,Tatum O'Neal,Madeline Kahn",Paper Moon
+,INR184000000,India,Anurag Kashyap," Action, Comedy, Crime, Drama, Thriller",8.2,"37.3%,26.6%,17.4%,8.1%,2.9%,1.7%,0.9%,0.6%,0.7%,3.8%",2012,321.0,"Manoj Bajpayee,Richa Chadha,Nawazuddin Siddiqui",Gangs of Wasseypur
+,$2700000,USA,Richard Linklater," Drama, Romance",8.1,"20.1%,21.2%,29.8%,16.3%,6.0%,2.5%,1.1%,0.7%,0.6%,1.7%",2004,80.0,"Ethan Hawke,Julie Delpy,Vernon Dobtcheff",Before Sunset
+$942487,€650000,"Estonia,Georgia",Zaza Urushadze," Drama, War",8.2,"33.9%,20.9%,25.8%,13.1%,3.3%,1.2%,0.4%,0.3%,0.3%,0.8%",2013,87.0,"Lembit Ulfsak,Elmo Nüganen,Giorgi Nakashidze",Tangerines
+$1968494,KRW10000000000,South Korea,Chan-wook Park," Drama, Romance, Thriller",8.1,"14.7%,25.1%,33.9%,16.9%,5.0%,1.9%,0.8%,0.5%,0.4%,0.8%",2016,144.0,"Min-hee Kim,Jung-woo Ha,Jin-Woong Cho",Ah-ga-ssi
+,,India,Neeraj Pandey," Crime, Drama, Mystery, Thriller",8.2,"28.5%,28.6%,22.7%,10.2%,3.5%,1.7%,1.0%,0.7%,0.7%,2.5%",2008,,"Anupam Kher,Naseeruddin Shah,Jimmy Sheirgill",A Wednesday
+,£1162000,"West Germany,France,UK,USA",Wim Wenders, Drama,8.1,"19.8%,20.8%,30.0%,16.7%,6.2%,2.8%,1.3%,0.7%,0.5%,1.1%",1984,145.0,"Harry Dean Stanton,Nastassja Kinski,Dean Stockwell","Paris, Texas"
+$442824138,$110000000,"USA,Germany,France,Spain",Paul Greengrass," Action, Mystery, Thriller",8.0,"15.8%,22.6%,34.5%,18.0%,5.3%,1.8%,0.7%,0.4%,0.3%,0.7%",2007,115.0,"Matt Damon,Edgar Ramírez,Joan Allen",The Bourne Ultimatum
+$774176600,$170000000,USA,James Gunn," Action, Adventure, Comedy, Sci-Fi",8.1,"19.5%,23.6%,28.7%,16.6%,6.2%,2.3%,1.0%,0.6%,0.4%,1.0%",2014,121.0,"Chris Pratt,Vin Diesel,Bradley Cooper",Guardians of the Galaxy
+$129788000,,India,Rajkumar Hirani," Comedy, Drama, Sci-Fi",8.2,"33.2%,23.0%,19.7%,10.7%,4.2%,1.9%,1.0%,0.8%,0.8%,4.7%",2014,153.0,"Aamir Khan,Anushka Sharma,Sanjay Dutt",PK
+$654264015,$140000000,USA,Gore Verbinski," Action, Adventure, Fantasy",8.0,"18.6%,20.8%,32.9%,17.2%,5.7%,2.1%,0.9%,0.5%,0.3%,0.9%",2003,143.0,"Johnny Depp,Geoffrey Rush,Orlando Bloom",Pirates of the Caribbean: The Curse of the Black Pearl
+$44309982,$2100000,USA,William Wyler," Drama, Romance, War",8.1,"22.6%,19.1%,27.7%,16.2%,5.9%,2.9%,1.3%,0.9%,0.7%,2.8%",1946,170.0,"Myrna Loy,Dana Andrews,Fredric March",The Best Years of Our Lives
+,,Japan,Hayao Miyazaki," Animation, Adventure, Fantasy",8.1,"18.3%,21.4%,32.6%,17.4%,5.2%,1.9%,0.8%,0.5%,0.5%,1.6%",1986,125.0,"Anna Paquin,James Van Der Beek,Cloris Leachman",Castle in the Sky
+,$6000000,India,Ashutosh Gowariker," Adventure, Drama, Musical, Romance, Sport",8.1,"29.4%,25.0%,23.0%,10.5%,3.9%,1.9%,1.0%,0.8%,0.9%,3.7%",2001,224.0,"Aamir Khan,Raghuvir Yadav,Gracy Singh",Lagaan: Once Upon a Time in India
